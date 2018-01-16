@@ -9,3 +9,5 @@ Konsol ekranına ```jupyter notebook``` veya ```ipython notebook``` komutların�
 
 **Reference:** <br/>
 https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE
+
+**Açıklama Dökümanı:** https://drive.google.com/file/d/18iJkMIqUQjn8wYIbWMmZp0TeT8mTh4mm/view?usp=sharing
